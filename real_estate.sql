@@ -23,7 +23,7 @@ CREATE TABLE Property (
     Size FLOAT CHECK (Size > 0),
     AgentID INT NOT NULL,
     PropertyType VARCHAR(50),
-    Picture BYTEA,
+    Picture BLOB,
     Rooms INT CHECK (Rooms > 0),
     FOREIGN KEY (AgentID) REFERENCES Agent(AgentID)
 );
