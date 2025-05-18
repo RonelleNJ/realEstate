@@ -9,6 +9,7 @@ CREATE TABLE Agent (
     EmailAddress VARCHAR(100)
 );
 
+-- CLIENT TABLE
 CREATE TABLE Client (
     ClientID SERIAL PRIMARY KEY,
     FirstName VARCHAR(50),
