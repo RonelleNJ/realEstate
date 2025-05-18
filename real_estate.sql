@@ -87,7 +87,9 @@ VALUES
 INSERT INTO Client (FirstName, LastName, PhoneNumber, EmailAddress)
 VALUES 
 ('Sarah', 'Mkhize', '0646562354', 'sarahmk54@gmail.com'),
-('John', 'Taylor', '4567890123', 'johntaylor62@gmail.com');
+('John', 'Taylor', '4567890123', 'johntaylor62@gmail.com'),
+('Siya', 'Moyo', '0646582354', 'siya@gmail.com'),
+('Ronnie', 'Madon', '0757890123', 'ronny@gmail.com');
 
 INSERT INTO Property (Price, Size, AgentID, PropertyType, Rooms)
 VALUES
