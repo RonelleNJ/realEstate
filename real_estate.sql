@@ -81,7 +81,8 @@ INSERT INTO Agent (FirstName, LastName, CompanyName, PhoneNumber, EmailAddress)
 VALUES 
 ('Lebogang', 'Smith', 'Elite Estates', '0752525656', 'lebogang23@elite.com'),
 ('Anna', 'Grey', 'Prime Properties', '0728986569', 'anna988@prime.com'),
-('Thulani', 'Brown', 'Zonke Properties', '0875659845', 'thulanibrown45@zonke.com');
+('Thulani', 'Brown', 'Zonke Properties', '0875659845', 'thulanibrown45@zonke.com'),
+('Moloko', 'Oceans', 'Babize Agents', '0726548956', 'moolokooceans@babize.com');
 
 INSERT INTO Client (FirstName, LastName, PhoneNumber, EmailAddress)
 VALUES 
